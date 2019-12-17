@@ -1,0 +1,40 @@
+body{
+    background-image:url("kangas.jpg");
+    }
+img{
+     max-height: 50px; max-width: 50px; margin-left: 50px;
+}
+h1 {
+    font-family: cursive; text-align: left; margin-top: 70px; margin-left: 80px; font-weight: 5;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif; margin-top: 30px; margin-left: 80px; font-weight: 5;
+}
+
+a{
+    text-decoration : none;
+    color : #000000;
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column {
+    float: left;
+  }
+  
+  .left {
+    width: 25%;
+  }
+  
+  .right {
+    width: 75%;
+  }

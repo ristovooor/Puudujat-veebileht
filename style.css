@@ -2,7 +2,7 @@ body{
     background-image:url("kangas.jpg");
     }
 img{
-     max-height: 50px; max-width: 50px; margin-left: 50px;
+     max-height: 50px; max-width: 50px; margin-left: 50px; margin-top: 70px;
 }
 h1 {
     font-family: cursive; text-align: left; margin-top: 70px; margin-left: 80px; font-weight: 5;
